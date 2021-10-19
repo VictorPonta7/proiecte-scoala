@@ -1,0 +1,4 @@
+bo$$
+<?php
+phpinfo();
+?>
